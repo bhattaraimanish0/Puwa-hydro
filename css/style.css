@@ -1204,4 +1204,203 @@
     background-size: cover;
     background-position: 50% 50%;
   }
+  .desktop {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .desktop .div {
+    background-color: #ffffff;
+    width: 1200px;
+    height: 679px;
+    position: relative;
+  }
+  
+  .desktop .frame {
+    position: absolute;
+    width: 1153px;
+    height: 156px;
+    top: 50px;
+    left: 24px;
+  }
+  
+  .desktop .heading-BACKGROUND {
+    position: absolute;
+    width: 384px;
+    height: 38px;
+    top: -1px;
+    left: 342px;
+    font-family: "Francois One-Regular", Helvetica;
+    font-weight: 400;
+    color: #333333;
+    font-size: 35px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 38.5px;
+    white-space: nowrap;
+  }
+  
+  .desktop .the-main-objective {
+    position: absolute;
+    width: 1153px;
+    height: 90px;
+    top: 65px;
+    left: 0;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #333333;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 30px;
+  }
+  
+  .desktop .frame-2 {
+    position: absolute;
+    width: 1048px;
+    height: 337px;
+    top: 253px;
+    left: 76px;
+  }
+  
+  .desktop .div-col-lg {
+    position: absolute;
+    width: 500px;
+    height: 337px;
+    top: 0;
+    left: 0;
+  }
+  
+  .desktop .overlap-group {
+    position: absolute;
+    width: 548px;
+    height: 337px;
+    top: 0;
+    left: 500px;
+    background-color: #3865ac;
+  }
+  
+  .desktop .list-item {
+    position: absolute;
+    width: 524px;
+    height: 87px;
+    top: 27px;
+    left: 20px;
+  }
+  
+  .desktop .why-choose-jpg {
+    top: 11px;
+    left: 4px;
+    background-image: url(./img/why-choose-1-jpg.png);
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border: 2px solid;
+    border-color: #f6b650;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .desktop .heading-hydropower {
+    position: absolute;
+    width: 207px;
+    height: 26px;
+    top: -1px;
+    left: 77px;
+    font-family: "Francois One-Regular", Helvetica;
+    font-weight: 400;
+    color: #f6b650;
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: 26.4px;
+    white-space: nowrap;
+  }
+  
+  .desktop .text-wrapper {
+    position: absolute;
+    width: 448px;
+    height: 51px;
+    top: 35px;
+    left: 77px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: 25.5px;
+  }
+  
+  .desktop .list-item-2 {
+    top: 129px;
+    position: absolute;
+    width: 524px;
+    height: 87px;
+    left: 12px;
+  }
+  
+  .desktop .heading-hydropower-2 {
+    position: absolute;
+    width: 388px;
+    height: 26px;
+    top: -1px;
+    left: 77px;
+    font-family: "Francois One-Regular", Helvetica;
+    font-weight: 400;
+    color: #f6b650;
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: 26.4px;
+    white-space: nowrap;
+  }
+  
+  .desktop .p {
+    position: absolute;
+    width: 448px;
+    height: 51px;
+    top: 35px;
+    left: 81px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: 25.5px;
+  }
+  
+  .desktop .why-choose-jpg-2 {
+    top: 19px;
+    left: 12px;
+    background-image: url(./img/why-choose-2-jpg.png);
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border: 2px solid;
+    border-color: #f6b650;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .desktop .list-item-3 {
+    top: 231px;
+    position: absolute;
+    width: 524px;
+    height: 87px;
+    left: 12px;
+  }
+  
+  .desktop .why-choose-jpg-3 {
+    top: 11px;
+    left: 12px;
+    background-image: url(./img/why-choose-4-jpg.png);
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border: 2px solid;
+    border-color: #f6b650;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
   
